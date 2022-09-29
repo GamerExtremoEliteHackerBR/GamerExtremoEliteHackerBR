@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋 Olá, eu sou Wanderson Marinho Pego criador de conteúdo de programação e tecnologia, apreciador do universo da programação, é satisfatório poder contribuir para evolução constante do universo da programação utilizando um pouco de meu conhecimento, divirtam-se com os projetos que estou compartilhando pelas minhas redes Gamer Extremo Elite H@cker BR.
 
 <!--
 **GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
 -->
