@@ -7,7 +7,6 @@
 É satisfatório poder contribuir para evolução constante do universo da programação utilizando um pouco de meu conhecimento, divirtam-se com os projetos que estou compartilhando pelas minhas redes Gamer Extremo Elite H@cker BR.
 </h4>
 ###
-###
 
 <h4 align="left">Bom, foi um prazer! espero seu retorno!! 🤝</h4>
 
