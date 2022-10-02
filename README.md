@@ -1,7 +1,7 @@
 ###
 <h2 align="left">
   Olá, eu sou Wanderson Marinho Pego  👋 <br> 
-  Criador de conteúdo de programação, games e tecnologia, apreciador do universo da programação.🧑‍💻 
+  Criador de conteúdo de programação, games e tecnologia, apreciador do universo da programação.🧑‍💻🎮 
 </h2>
 <h4 align="left">
 É satisfatório poder contribuir para evolução constante do universo da programação utilizando um pouco de meu conhecimento, divirtam-se com os projetos que estou compartilhando pelas minhas redes Gamer Extremo Elite H@cker BR.
