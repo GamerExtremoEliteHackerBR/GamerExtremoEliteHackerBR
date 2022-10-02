@@ -64,21 +64,37 @@ Here are some ideas to get you started:
 ##
 <!--====Icone Redes Sociais====-->
   
-<div align="center">
 
+<!--<div align="center">
+   <a href="https://www.linkedin.com/in/wanderson-m-p-294962203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   
-   <a href="https://www.linkedin.com/in/wanderson-m-p-294962203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <a href="https://www.instagram.com/easykaos_elite_hacker/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <!-- <a href="https://www.instagram.com/easykaos_elite_hacker/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   
    <!--<a href="https://GamerExtremoEliteHackerBR.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>-->
    
-  <a href = "mailto:easykaos1@gmail.com?subject='Olá! Tudo bem?"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--<a href = "mailto:easykaos1@gmail.com?subject='Olá! Tudo bem?"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--<a href = ""><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>-->
   
-   <a href="https://web.facebook.com/easykaos.cursedangel/" target="_blank">
+   <!--<a href="https://web.facebook.com/easykaos.cursedangel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo" /></a>
-</div>  
+  
+</div>  -->
+  
+  <div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100006005023941" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/gustavosoaresdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-soares-thomann/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5551984510471" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
+  </a>
+</div>
+
 
 ##
 <!--====Snake====-->
