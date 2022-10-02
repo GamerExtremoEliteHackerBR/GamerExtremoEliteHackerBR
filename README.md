@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   <a href="https://wa.me/5527995285971" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
   </a>
-    <a href = "mailto:easykaos1@gmail.com?subject='Olá! Tudo bem?"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="34" alt="gmail logo"></a>
+    <a href = "mailto:easykaos1@gmail.com?subject='Olá! Tudo bem?"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="34" alt="email logo"></a>
     <!--<a href="https://GamerExtremoEliteHackerBR.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>-->
     <!--<a href = ""><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>-->
 </div>
