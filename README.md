@@ -1,6 +1,6 @@
 ###
 <h2 align="left">
-  👋 Olá, eu sou Wanderson Marinho Pego <br> 
+  Olá, eu sou Wanderson Marinho Pego  👋 <br> 
   Criador de conteúdo de programação, games e tecnologia, apreciador do universo da programação.🧑‍💻 
 </h2>
 <h4 align="left">
