@@ -95,8 +95,6 @@ Here are some ideas to get you started:
   <a href="https://play.google.com/store/apps/dev?id=5037860889242526251" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"  target="_blank" height="34" alt="gmail logo">
   </a>
-
-    ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
   
   
 </div>
