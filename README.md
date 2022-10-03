@@ -96,6 +96,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge"  target="_blank" height="34" alt="gmail logo">
   </a>
   -->
+    ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
   
   
 </div>
