@@ -91,11 +91,11 @@ Here are some ideas to get you started:
   <a href="https://discordapp.com/users/360553616676749322" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge"  target="_blank" height="34" alt="gmail logo">
   </a>
-  <!--
+
   <a href="https://play.google.com/store/apps/dev?id=5037860889242526251" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge"  target="_blank" height="34" alt="gmail logo">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"  target="_blank" height="34" alt="gmail logo">
   </a>
-  -->
+
     ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
   
   
