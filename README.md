@@ -92,7 +92,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge"  target="_blank" height="34" alt="gmail logo">
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5037860889242526251" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge"  target="_blank" height="34" alt="gmail logo">
+    <img src="https://img.shields.io/badge/Palystore?logo=discord&logoColor=white&style=for-the-badge"  target="_blank" height="34" alt="gmail logo">
   </a>
   
 </div>
