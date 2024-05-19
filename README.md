@@ -102,9 +102,9 @@ Here are some ideas to get you started:
 
 ##
 <!--====Snake====-->
-![Snake animation](https://github.com/GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR/blob/output/github-contribution-grid-snake.svg)-->
 
-<!--====Snake NOVO====-->
+<!--====Snake NOVO, 19-05-24====-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR/output/github-contribution-grid-snake.svg">
